@@ -1,0 +1,20 @@
+# Backend dependencies
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-MySQL
+Flask-PyMongo
+openai
+requests
+pandas
+scikit-learn
+nltk
+spacy
+gunicorn
+matplotlib
+seaborn
+python-dotenv
+bcrypt
+
+# Frontend dependencies
+streamlit
